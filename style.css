@@ -10,7 +10,7 @@ body::-webkit-scrollbar {
 
 #percentage-scroll {
     position: fixed;
-    font-size: 1.2rem;
+    font-size: 3rem;
     background-color:black;
     color: white;
     
@@ -44,7 +44,7 @@ body::-webkit-scrollbar {
 }
 
 .bars i {
-    font-size: 2rem;
+    font-size: 4rem;
 }
 
 .dropdown-list{
